@@ -1,4 +1,5 @@
 {
+  "revision": "2026-06-10-links-v2",
   "categories": [
     {
       "name": "模拟器助手",
@@ -8,6 +9,29 @@
           "description": "模拟器助手在线入口",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/logo.png",
           "downloadUrl": "https://模拟器助手.com"
+        }
+      ]
+    },
+    {
+      "name": "模拟器下载",
+      "items": [
+        {
+          "name": "模拟器助手",
+          "description": "模拟器助手下载",
+          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/logo.png",
+          "downloadUrl": "https://wwnp.lanzn.com/b0187yyfa"
+        },
+        {
+          "name": "Gameloop(64位)",
+          "description": "Gameloop 64 位安装包",
+          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E6%A8%A1%E6%8B%9F%E5%99%A8logo.png",
+          "downloadUrl": "https://wwnp.lanzouw.com/iEoML0fboo9e"
+        },
+        {
+          "name": "Gameloop(32位)",
+          "description": "Gameloop 32 位安装包",
+          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E6%A8%A1%E6%8B%9F%E5%99%A8logo.png",
+          "downloadUrl": "https://wwnp.lanzouw.com/igilx0unvruh"
         }
       ]
     },
@@ -27,13 +51,7 @@
           "downloadUrl": "https://wwnp.lanzouu.com/iXbsK345rglc"
         },
         {
-          "name": "简朴",
-          "description": "安卓工具下载",
-          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2025/11/unnamed.webp",
-          "downloadUrl": "https://wwnp.lanzouu.com/iX19J3b7px7c"
-        },
-        {
-          "name": "Scrcpy",
+          "name": "Scrcpy(安卓投屏)",
           "description": "安卓投屏工具",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2025/11/3427627.png",
           "downloadUrl": "https://wwnp.lanzouu.com/iiSFI3b7pble"
@@ -43,6 +61,88 @@
           "description": "IDM Activation Script",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2025/09/idm.webp",
           "downloadUrl": "https://github.com/Coporton/IDM-Activation-Script"
+        },
+        {
+          "name": "流氓软件杀手",
+          "description": "流氓软件清理工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://wwnp.lanzouu.com/iJX0X31su5ib",
+          "downloadUrl": "https://wwnp.lanzouu.com/iJX0X31su5ib"
+        },
+        {
+          "name": "在线文件转换工具",
+          "description": "在线文件格式转换",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://convertio.co/zh/",
+          "downloadUrl": "https://convertio.co/zh/"
+        },
+        {
+          "name": "抢票软件（大麦）",
+          "description": "大麦抢票辅助工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/shiyutim/tickets",
+          "downloadUrl": "https://github.com/shiyutim/tickets"
+        },
+        {
+          "name": "Frpc内网穿透",
+          "description": "Frpc 桌面内网穿透工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/luckjiawei/frpc-desktop",
+          "downloadUrl": "https://github.com/luckjiawei/frpc-desktop"
+        },
+        {
+          "name": "网易云音乐辅助脚本",
+          "description": "网易云音乐脚本工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/Cinvin/myuserscripts",
+          "downloadUrl": "https://github.com/Cinvin/myuserscripts?tab=readme-ov-file"
+        },
+        {
+          "name": "拯救者工具箱",
+          "description": "Lenovo Legion Toolkit",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/BartoszCichecki/LenovoLegionToolkit",
+          "downloadUrl": "https://github.com/BartoszCichecki/LenovoLegionToolkit"
+        },
+        {
+          "name": "微信聊天生成工具",
+          "description": "微信聊天内容生成工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://gitee.com/lifeixue/weixin-chat",
+          "downloadUrl": "https://gitee.com/lifeixue/weixin-chat/blob/master/wxchat-win32-x64.zip"
+        },
+        {
+          "name": "PDF Guru",
+          "description": "PDF 工具箱",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/kevin2li/PDF-Guru",
+          "downloadUrl": "https://github.com/kevin2li/PDF-Guru/releases"
+        },
+        {
+          "name": "桌面猫咪",
+          "description": "桌面宠物工具",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://wwnp.lanzouw.com/b019vc5aj",
+          "downloadUrl": "https://wwnp.lanzouw.com/b019vc5aj"
+        }
+      ]
+    },
+    {
+      "name": "好用软件(安卓)",
+      "items": [
+        {
+          "name": "简朴",
+          "description": "安卓工具下载",
+          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2025/11/unnamed.webp",
+          "downloadUrl": "https://wwnp.lanzouu.com/iX19J3b7px7c"
+        }
+      ]
+    },
+    {
+      "name": "开源网站",
+      "items": [
+        {
+          "name": "某盘解析",
+          "description": "94list 开源项目",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/codehub666/94list",
+          "downloadUrl": "https://github.com/codehub666/94list"
+        },
+        {
+          "name": "极简网址导航",
+          "description": "ThinNav 开源网址导航",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/DemoJ/ThinNav",
+          "downloadUrl": "https://github.com/DemoJ/ThinNav"
         }
       ]
     },
@@ -139,7 +239,19 @@
           "downloadUrl": "https://www.intel.cn/content/www/cn/zh/products/details/wireless/wi-fi-6-series/downloads.html"
         },
         {
-          "name": "Gameloop",
+          "name": "原版Windows系统",
+          "description": "Windows 原版系统下载入口",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://hellowindows.cn/",
+          "downloadUrl": "https://hellowindows.cn/"
+        },
+        {
+          "name": "Bandizip压缩官网",
+          "description": "Bandizip 官方网站",
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.bandisoft.com/bandizip/",
+          "downloadUrl": "https://www.bandisoft.com/bandizip/"
+        },
+        {
+          "name": "Gameloop官网",
           "description": "腾讯手游助手官方网站",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E6%A8%A1%E6%8B%9F%E5%99%A8logo.png",
           "downloadUrl": "https://www.gameloop.com/"
