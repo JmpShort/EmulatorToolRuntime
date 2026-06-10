@@ -24,7 +24,7 @@
           "name": "Netch",
           "description": "网络代理工具下载入口",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/netch.jpg",
-          "downloadUrl": "https://github.com/netchx/netch"
+          "downloadUrl": "https://wwnp.lanzouu.com/iXbsK345rglc"
         },
         {
           "name": "简朴",
@@ -53,13 +53,13 @@
           "name": "微软运行库",
           "description": "微软运行库下载",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E5%BE%AE%E8%BD%AF%E8%BF%90%E8%A1%8C%E5%BA%93.jpg",
-          "downloadUrl": "https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist"
+          "downloadUrl": "https://wwnp.lanzouw.com/i9Opg0tcj7mf"
         },
         {
           "name": "DX修复工具",
           "description": "修复 DX 文件缺失",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E6%89%B3%E6%89%8B.png",
-          "downloadUrl": "https://www.3dmgame.com/patch/89066.html"
+          "downloadUrl": "https://zhangyue667.lanzouh.com/DirectXRepair"
         },
         {
           "name": "Rufus",
@@ -71,7 +71,7 @@
           "name": "软件卸载工具",
           "description": "软件卸载工具",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E5%8D%B8%E8%BD%BD.jpg",
-          "downloadUrl": "https://geekuninstaller.com/"
+          "downloadUrl": "https://wwnp.lanzouw.com/iyScU0g5z37c"
         },
         {
           "name": "WinRaR v7.13注册版",
@@ -88,8 +88,8 @@
         {
           "name": "WIN10免费获取HEVC扩展",
           "description": "开启 HEVC 视频扩展",
-          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://store.rg-adguard.net/",
-          "downloadUrl": "https://store.rg-adguard.net/"
+          "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://wwnp.lanzn.com/iaVRY1zqkq8h",
+          "downloadUrl": "https://wwnp.lanzn.com/iaVRY1zqkq8h"
         },
         {
           "name": "DLL下载网站",
@@ -113,19 +113,19 @@
           "name": "Optimizer系统优化",
           "description": "Windows 系统优化工具",
           "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://github.com/hellzerg/optimizer",
-          "downloadUrl": "https://github.com/hellzerg/optimizer"
+          "downloadUrl": "https://github.com/hellzerg/optimizer/releases"
         },
         {
           "name": "关闭微软防病毒和自动更新",
           "description": "关闭系统防护和自动更新工具",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/%E9%98%B2%E7%97%85%E6%AF%92.jpg",
-          "downloadUrl": "https://www.sordum.org/"
+          "downloadUrl": "https://wwnp.lanzouw.com/iufvT0g5yy6b"
         },
         {
           "name": "班迪录屏",
           "description": "录屏工具",
           "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/10/%E7%8F%AD%E8%BF%AA.png",
-          "downloadUrl": "https://www.bandicam.cn/"
+          "downloadUrl": "https://wwnp.lanzouw.com/i0Mi51cu6lfg"
         }
       ]
     },
@@ -136,7 +136,7 @@
           "name": "英特尔 Wi-Fi 6驱动",
           "description": "Intel 官方无线网卡驱动",
           "iconUrl": "https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://www.intel.cn/content/www/cn/zh/download-center/home.html",
-          "downloadUrl": "https://www.intel.cn/content/www/cn/zh/download-center/home.html"
+          "downloadUrl": "https://www.intel.cn/content/www/cn/zh/products/details/wireless/wi-fi-6-series/downloads.html"
         },
         {
           "name": "Gameloop",
