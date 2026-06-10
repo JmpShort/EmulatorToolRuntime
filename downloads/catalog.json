@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "name": "模拟器助手",
+      "items": [
+        {
+          "name": "模拟器助手网页版",
+          "description": "模拟器助手在线入口",
+          "iconUrl": "",
+          "downloadUrl": "https://模拟器助手.com"
+        }
+      ]
+    },
+    {
+      "name": "好用软件",
+      "items": [
+        {
+          "name": "Proxifier",
+          "description": "代理分流工具",
+          "iconUrl": "",
+          "downloadUrl": "https://wwbab.lanzouu.com/iQSbE3r8szfc"
+        },
+        {
+          "name": "Netch",
+          "description": "网络代理工具下载入口",
+          "iconUrl": "",
+          "downloadUrl": "https://github.com/netchx/netch"
+        },
+        {
+          "name": "简朴",
+          "description": "安卓工具下载",
+          "iconUrl": "",
+          "downloadUrl": "https://wwnp.lanzouu.com/iX19J3b7px7c"
+        },
+        {
+          "name": "Scrcpy",
+          "description": "安卓投屏工具",
+          "iconUrl": "",
+          "downloadUrl": "https://wwnp.lanzouu.com/iiSFI3b7pble"
+        },
+        {
+          "name": "IDM激活脚本",
+          "description": "IDM Activation Script",
+          "iconUrl": "",
+          "downloadUrl": "https://github.com/Coporton/IDM-Activation-Script"
+        }
+      ]
+    },
+    {
+      "name": "系统工具",
+      "items": [
+        {
+          "name": "微软运行库",
+          "description": "微软运行库下载",
+          "iconUrl": "",
+          "downloadUrl": "https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist"
+        },
+        {
+          "name": "DX修复工具",
+          "description": "修复 DX 文件缺失",
+          "iconUrl": "",
+          "downloadUrl": "https://www.3dmgame.com/patch/89066.html"
+        },
+        {
+          "name": "Rufus",
+          "description": "格式化和创建 USB 启动盘的辅助工具",
+          "iconUrl": "",
+          "downloadUrl": "https://wwnp.lanzouu.com/iT8PH34oa0pc"
+        },
+        {
+          "name": "软件卸载工具",
+          "description": "软件卸载工具",
+          "iconUrl": "",
+          "downloadUrl": "https://geekuninstaller.com/"
+        },
+        {
+          "name": "WinRaR v7.13注册版",
+          "description": "压缩与解压缩软件",
+          "iconUrl": "",
+          "downloadUrl": "https://wwnp.lanzouu.com/iDYar345s4te"
+        },
+        {
+          "name": "Win10-AV1视频扩展",
+          "description": "Win10 AV1 视频扩展",
+          "iconUrl": "",
+          "downloadUrl": "https://wwnp.lanzn.com/ijRPE2it1o4j"
+        },
+        {
+          "name": "WIN10免费获取HEVC扩展",
+          "description": "开启 HEVC 视频扩展",
+          "iconUrl": "",
+          "downloadUrl": "https://store.rg-adguard.net/"
+        },
+        {
+          "name": "DLL下载网站",
+          "description": "DLL 文件下载网站",
+          "iconUrl": "",
+          "downloadUrl": "https://cn.dll-files.com/"
+        },
+        {
+          "name": "Complete Internet Repair",
+          "description": "Windows 修复工具",
+          "iconUrl": "",
+          "downloadUrl": "https://www.rizonesoft.com/downloads/complete-internet-repair/"
+        },
+        {
+          "name": "一键激活windows/office工具",
+          "description": "KMS 激活工具入口",
+          "iconUrl": "",
+          "downloadUrl": "https://kms.cx/"
+        },
+        {
+          "name": "Optimizer系统优化",
+          "description": "Windows 系统优化工具",
+          "iconUrl": "",
+          "downloadUrl": "https://github.com/hellzerg/optimizer"
+        },
+        {
+          "name": "关闭微软防病毒和自动更新",
+          "description": "关闭系统防护和自动更新工具",
+          "iconUrl": "",
+          "downloadUrl": "https://www.sordum.org/"
+        },
+        {
+          "name": "班迪录屏",
+          "description": "录屏工具",
+          "iconUrl": "",
+          "downloadUrl": "https://www.bandicam.cn/"
+        }
+      ]
+    },
+    {
+      "name": "官方网站",
+      "items": [
+        {
+          "name": "英特尔 Wi-Fi 6驱动",
+          "description": "Intel 官方无线网卡驱动",
+          "iconUrl": "",
+          "downloadUrl": "https://www.intel.cn/content/www/cn/zh/download-center/home.html"
+        },
+        {
+          "name": "Gameloop",
+          "description": "腾讯手游助手官方网站",
+          "iconUrl": "",
+          "downloadUrl": "https://www.gameloop.com/"
+        }
+      ]
+    }
+  ]
+}

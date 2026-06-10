@@ -1,0 +1,14 @@
+{
+  "title": "模拟器助手",
+  "subtitle": "HelloWorld",
+  "announcement": "HelloWorld",
+  "latestVersion": "1.0.0",
+  "changelog": "重构版首个运行库发布。\n- 自更新改为客户端下载更新包并调用 PowerShell 替换。\n- 下载页改为从仓库 downloads/catalog.json 动态加载。\n- 左侧导航修复选中蓝色残留。",
+  "downloadUrl": "https://github.com/JmpShort/EmulatorToolRuntime/releases/download/v1.0.0/EmulatorTool.WinUI-x64.zip",
+  "exeUrl": "https://github.com/JmpShort/EmulatorToolRuntime/releases/download/v1.0.0/EmulatorTool.WinUI.exe",
+  "packageSha256": "9e35972102d4260895057f138e8c72b192575230b83ccf998b8a1668ffb7cd64",
+  "packageSize": 23290687,
+  "exeSha256": "507a4dc7112b8d6a00ed8a44a62e64a82bb81ce6d8e926a53af0584b55a0d460",
+  "exeSize": 1100800,
+  "publishedAt": "2026-06-10T07:47:10Z"
+}
