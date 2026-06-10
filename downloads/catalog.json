@@ -1,5 +1,5 @@
 {
-  "revision": "2026-06-10-links-v2",
+  "revision": "2026-06-10-links-v3",
   "categories": [
     {
       "name": "模拟器助手",
@@ -15,12 +15,6 @@
     {
       "name": "模拟器下载",
       "items": [
-        {
-          "name": "模拟器助手",
-          "description": "模拟器助手下载",
-          "iconUrl": "https://xn--7frz0g40n3qaj40a.com/wp-content/uploads/2023/09/logo.png",
-          "downloadUrl": "https://wwnp.lanzn.com/b0187yyfa"
-        },
         {
           "name": "Gameloop(64位)",
           "description": "Gameloop 64 位安装包",
