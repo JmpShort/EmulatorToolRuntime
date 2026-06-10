@@ -1,0 +1,8 @@
+{
+    "subtitle":  "6.08 原生 WinUI 重构进度",
+    "announcement":  "当前版本正在迁移易语言 6.08 功能到 native C++ / WinUI。\\n本次更新优化工具页布局、首页半透明层、远程公告、机器码查询和鼠标指针预览。",
+    "downloadUrl":  "https://github.com/JmpShort/EmulatorTool/releases/latest",
+    "changelog":  "- 功能菜单居中并移除无用入口。\\n- 公告与更新日志改为 GitHub 运行库仓库远程下发。\\n- 鼠标指针改为自动扫描 UI 资源目录并预览选择。\\n- 机器码查询补齐旧 bat 的主要硬件字段。",
+    "latestVersion":  "6.08",
+    "title":  "公告"
+}
