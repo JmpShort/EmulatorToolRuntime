@@ -1,8 +1,0 @@
-{
-    "title":  "公告",
-    "subtitle":  "6.08 native WinUI 持续迁移",
-    "announcement":  "本轮更新优化功能菜单布局、主页透明层、Toast 关闭按钮、公告代理下载、图片格式转换、感染项清理和鼠标指针预览。运行库仓库已发布 ADB Windows x64 三件套。",
-    "latestVersion":  "6.08",
-    "changelog":  "- 功能菜单改为 5 列居中，按钮槽位统一。\n- 首页公告与启动面板改为更轻的半透明层。\n- 图片格式转换改为 native WIC 多选转换。\n- 感染杀毒入口改为已知项清理与风险报告。\n- 公告读取支持 GitHub 直连与多个代理候选。\n- ADB 运行库 release 已验证 latest/download 可访问。",
-    "downloadUrl":  "https://github.com/JmpShort/EmulatorTool/releases/latest"
-}
